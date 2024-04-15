@@ -1,3 +1,5 @@
+
+//service that manage categories
 import axiosInstance from "@/config/axios";
 
 export const getAllCategories = async () => {
